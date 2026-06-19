@@ -1,8 +1,8 @@
-name: conda-dev-tools
+name: dt-basic-dev
 channels:
   - defaults
 dependencies:
   - python=3.12
   - just
   - pre-commit
-prefix: /Users/dsml/miniconda3/envs/conda-dev-tools
+prefix: /home/sctp/miniconda3/envs/dt-basic-dev
