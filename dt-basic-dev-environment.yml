@@ -3,9 +3,10 @@ channels:
   - defaults
 dependencies:
   - python=3.12
-  - ipykernel
   - just
   - pre-commit
-  - scikit-learn
   - pandas
-prefix: /Users/sctp/miniconda3/envs/dt-basic-dev
+  - scikit-learn
+  - ipykernel
+  - matplotlib
+prefix: /home/sctp/miniconda3/envs/dt-basic-dev
